@@ -1,0 +1,94 @@
+{
+  "main": {
+    "name": "Shubham Pandey",
+    "occupation": "Student at IIIT Bhopal",
+    "description": "",
+    "image": "dp2.jpg",
+    "bio": "My name is Shubham, I'm a Computer Science Student.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "shubhamp98@gmail.com",
+    "phone": "+91 9140094362",
+    "address": {
+      "street": "",
+      "city": "",
+      "state": "",
+      "zip": ""
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "Indian Institute of Information Technology, Bhopal",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "April, 2022",
+        "description": "Graduated with Average GPA: 7.5"
+      }
+    ],
+    "work": [
+      
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "75%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "8%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Shubham is a hidden gem of IIIT Bhopal",
+        "user": "Dr. Robin Singh Bhadoria"
+      },
+      {
+        "text": "Shubham Pandey must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Anshul Sharma (Senior developer, Amazon)"
+      }
+    ]
+  }
+}
